@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalidate",
+        "uuid": 218586,
+        "checksum": "tdk47b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
